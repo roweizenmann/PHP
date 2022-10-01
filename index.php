@@ -12,6 +12,7 @@
         $fistName = "Rodrigo";
         $lastName = "Weizenmann"
         $email = "rweizenmann@outlook.com"
+        echo = $fistName;
         ?>
     </label>
 </body>
